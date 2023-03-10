@@ -84,13 +84,23 @@ A security framework can defined as policies and procedures for establishing and
 
 
 <h2>NIST Special Publication 800-37</h2>
+ <strong> What:</strong> NIST 800-37 is security standard and compliance framework created by the National Institute of Standards in Technology (NIST).NIST 800-37 specifically a risk amanagemnt framework using a life cycle to ensure security and privacy.  <br /><br />
+ <strong> Who For:</strong> This framework is used by businesses that work with the federal government and those thatare a supplier to the federal government, in any way. <br /><br />
+ <strong> Purpose:</strong><br /> Gives a structured and flexible way of managing privacy risk and security.<br /> <br />
+<strong> Lifecycle :</strong><br /> 
+1. <strong> Catogrize</strong> the information system.<br />
+2. <strong> Select</strong> the security controls.<br />
+3. <strong> Implement</strong> the security controls.<br />
+4. <strong> Assess</strong> the security controls.<br />
+5. <strong> Authorize</strong> the information system.<br />
+6. <strong> Monitor</strong> security controls.<br />
  
  
  
  <h2>NIST Special Publication 800-53</h2>
  <strong> What:</strong> NIST 800-53 is security standard and compliance framework created by the National Institute of Standards in Technology (NIST). This framework is regulary updated with a goal to define controls, assemetments, and standard based on the factors of risk, cost efficiency, and capability. <br /><br />
  <strong> Who For:</strong> This compliance standard needs to be met by federal information systems, agencies, and associated government contractors and departments that work with the government. <br /><br />
- <strong> Purpose:</strong>Provide a foundation of guiding elements, strategies, systems, and controls to meet secuirty needs <br /><br />
+ <strong> Purpose:</strong> Provide a foundation of guiding elements, strategies, systems, and controls to meet secuirty needs <br /><br />
  <strong> Benefits:</strong> Comprehensive framework that if followed to a limited level of controls a majority of risk factors are still covered while offering the ability to improve on the baseline as needs of a organization become more prevailent. <br /><br />
  <strong> Security / Access Control Baseline:</strong> <br />
   <strong>High Impact:</strong> Information Protected  <br />
@@ -118,9 +128,9 @@ A security framework can defined as policies and procedures for establishing and
  <strong>SC (System and communications protection):</strong> Partitioning applications, implementing cryptographic key management, and securing passwords and other sensitive data.<br /><br />
  <strong>SI (System and information integrity): </strong>Implementing system monitoring, alerting systems, and flaw remediation processes<br /><br />
   <strong> Best Pratices:</strong><br />
-  1.Locate and classify confidental data.<br />
-  2.Monitor data, file actvity, and user behavior.<br />
-  3.Manage Acess Control.<br />
-  4.Implement Security Training.<br />
+  1. Locate and classify confidental data.<br />
+  2. Monitor data, file actvity, and user behavior.<br />
+  3. Manage Acess Control.<br />
+  4. Implement Security Training.<br />
   <br />
 
