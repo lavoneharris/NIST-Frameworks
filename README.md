@@ -6,77 +6,77 @@ A security framework can defined as policies and procedures for establishing and
 <br />
 <h2>Common Frameworks</h2>
 
-<strong> NIST Special Publication 800-37</strong> <br />
-Purpose: Provides guides for applying risk management frameworks to information systems both federal and non-federal<br />
-Sector: Federal<br />
-Certification: N/A<br />
+<strong> NIST Special Publication 800-37</strong> <br /><br />
+Purpose: Provides guides for applying risk management frameworks to information systems both federal and non-federal<br /><br />
+Sector: Federal<br /><br />
+Certification: N/A<br /><br />
 
-<strong>NIST Special Publication 800-53</strong> <br />
-Purpose: Provides a list of controls that support the development of secure and resilient federal information systems. <br />
-Sector: Federal information systems except those related to national security, and are technology-neutral.<br />
-Certification: N/A <br />
+<strong>NIST Special Publication 800-53</strong> <br /><br />
+Purpose: Provides a list of controls that support the development of secure and resilient federal information systems. <br /><br />
+Sector: Federal information systems except those related to national security, and are technology-neutral.<br /><br />
+Certification: N/A <br /><br />
 
-<strong>SOC 2</strong> <br />
-Purpose: Handle Customer Data<br />
-Sector: Organizations & Thrid Parties <br />
-Certification: N/A <br />
+<strong>SOC 2</strong> <br /><br />
+Purpose: Handle Customer Data<br /><br />
+Sector: Organizations & Thrid Parties <br /><br />
+Certification: N/A <br /><br />
 
-<strong>ISO 27001</strong> <br />
-Purpose: Maintain and build an Information Secuirty Management System<br />
-Sector: Organizations handling senstive data<br />
-Certification: Yes<br />
+<strong>ISO 27001</strong> <br /><br />
+Purpose: Maintain and build an Information Secuirty Management System<br /><br />
+Sector: Organizations handling senstive data<br /><br />
+Certification: Yes<br /><br />
 
-<strong>NIST Cybersecurity Framework</strong> <br />
-Purpose: Security vulnerbility identifcation <br />
-Sector: ALL <br />
-Certification: N/A<br />
+<strong>NIST Cybersecurity Framework</strong> <br /><br />
+Purpose: Security vulnerbility identifcation <br /><br />
+Sector: ALL <br /><br />
+Certification: N/A<br /><br />
 
-<strong>HIPAA</strong> <br />
-Purpose: Protect senstive patient health information<br />
-Sector: Healthcare <br />
-Certification: Yes <br />
+<strong>HIPAA</strong> <br /><br />
+Purpose: Protect senstive patient health information<br /><br />
+Sector: Healthcare <br /><br />
+Certification: Yes <br /><br />
 
-<strong>PCI DSS</strong> <br />
-Purpose: Protect cardholder information protected<br />
-Sector:Organizations handling credit card information<br />
-Certification:Yes <br />
+<strong>PCI DSS</strong> <br /><br />
+Purpose: Protect cardholder information protected<br /><br />
+Sector:Organizations handling credit card information<br /><br />
+Certification:Yes <br /><br />
 
-<strong>GDPR</strong> <br />
-Purpose: Protect data of People in the EU <br />
-Sector: Orgainzations that collect data of people in the EU<br />
-Certification: Yes <br />
+<strong>GDPR</strong> <br /><br />
+Purpose: Protect data of People in the EU <br /><br />
+Sector: Orgainzations that collect data of people in the EU<br /><br />
+Certification: Yes <br /><br />
 
-<strong>HITRUST CSF</strong> <br />
-Purpose: Enhanced security for healthcare<br />
-Sector: Healthcare<br />
-Certification: Yes<br />
+<strong>HITRUST CSF</strong> <br /><br />
+Purpose: Enhanced security for healthcare<br /><br />
+Sector: Healthcare<br /><br />
+Certification: Yes<br /><br />
 
-<strong>COBIT</strong> <br />
-Purpose: Aligning of It with business goals, security,information governance and risk management <br />
-Sector: Public traded organizations<br />
-Certification: Yes<br />
+<strong>COBIT</strong> <br /><br />
+Purpose: Aligning of It with business goals, security,information governance and risk management <br /><br />
+Sector: Public traded organizations<br /><br />
+Certification: Yes<br /><br />
 
-<strong>NERC-CIP</strong> <br />
-Purpose: Protect North America electric systems running <br />
-Sector: Utility/Power<br />
-Certification: Yes<br />
+<strong>NERC-CIP</strong> <br /><br />
+Purpose: Protect North America electric systems running <br /><br />
+Sector: Utility/Power<br /><br />
+Certification: Yes<br /><br />
 
-<strong>FISMA</strong> <br />
-Purpose: Profect federal government assets<br />
-Sector: Federal Government<br />
-Certification: Yes<br />
+<strong>FISMA</strong> <br /><br />
+Purpose: Profect federal government assets<br /><br />
+Sector: Federal Government<br /><br />
+Certification: Yes<br /><br />
 
-<strong>NIST Special Publication 800-171</strong> <br />
-Purpose: Management of unclassified information <br />
-Sector: Contractors and subcontractors of federal government<br />
-Certification: N/A<br />
+<strong>NIST Special Publication 800-171</strong> <br /><br />
+Purpose: Management of unclassified information <br /><br />
+Sector: Contractors and subcontractors of federal government<br /><br />
+Certification: N/A<br /><br />
 
-<strong>IAB CCPA</strong> <br />
-Purpose: Protecting California consumers data<br />
-Sector: California Organizations <br />
-Certification: N/A <br />
+<strong>IAB CCPA</strong> <br /><br />
+Purpose: Protecting California consumers data<br /><br />
+Sector: California Organizations <br /><br />
+Certification: N/A <br /><br />
 
-<strong>CIS Controls</strong> <br />
-Purpose: General protection on cyber threats<br />
-Sector: All <br />
-Certification: Yes<br />
+<strong>CIS Controls</strong> <br /><br />
+Purpose: General protection on cyber threats<br /><br />
+Sector: All <br /><br />
+Certification: Yes<br /><br />
