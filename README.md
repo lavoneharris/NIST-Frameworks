@@ -80,3 +80,22 @@ A security framework can defined as policies and procedures for establishing and
 <strong> Purpose:</strong> General protection on cyber threats<br />
 <strong> Sector:</strong> All <br />
 <strong> Certification:</strong> Yes<br /><br />
+
+
+
+<h2>NIST Special Publication 800-37</h2>
+ 
+ 
+ 
+ <h2>NIST Special Publication 800-53</h2>
+ <strong> What:</strong> NIST 800-53 is security standard and compliance framework created by the National Institute of Standards in Technology (NIST). This framework is regulary updated with a goal to define controls, assemetments, and standard based on the factors of risk, cost efficiency, and capability. <br />
+ <strong> Who For:</strong> This compliance standard needs to be met by federal information systems, agencies, and associated government contractors and departments that work with the government. <br />
+ <strong> Purpose:</strong>Provide a foundation of guiding elements, strategies, systems, and controls to meet secuirty needs <br />
+ <strong> Benefits:</strong> Comprehensive framework that if followed to a limited level of controls a majority of risk factors are still covered while offering the ability to improve on the baseline as needs of a organization become more prevailent. <br />
+ <strong> Security / Access Control Baseline:</strong> <br />
+  <strong>High Impact:</strong> Information Protected  <br />
+ <strong> Medium Impact:</strong> Privledge commands controlled  <br />
+  <strong>Low Impact:</strong> Monitored & Mangaged  <br />
+ <strong> Controls:</strong> <br />
+  <strong> Best Pratices:</strong> <br />
+
