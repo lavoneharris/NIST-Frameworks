@@ -6,7 +6,7 @@ A security framework can defined as policies and procedures for establishing and
 <br />
 <h2>Common Frameworks</h2>
 
-<strong> Special Publication 800-37</strong> <br />
+<strong> NIST Special Publication 800-37</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
