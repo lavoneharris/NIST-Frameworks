@@ -7,14 +7,14 @@ A security framework can defined as policies and procedures for establishing and
 <h2>Common Frameworks</h2>
 
 <strong> NIST Special Publication 800-37</strong> <br />
-Purpose:<br />
-Sector:<br />
-Certification:<br />
+Purpose: Provides guides for applying risk management frameworks to information systems both federal and non-federal<br />
+Sector: Federal<br />
+Certification: N/A<br />
 
 <strong>NIST Special Publication 800-53</strong> <br />
-Purpose:<br />
-Sector:<br />
-Certification:<br />
+Purpose: Provides a list of controls that support the development of secure and resilient federal information systems. <br />
+Sector: Federal information systems except those related to national security, and are technology-neutral.<br />
+Certification: N/A <br />
 
 <strong>SOC 2</strong> <br />
 Purpose: Handle Customer Data<br />
