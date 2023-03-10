@@ -97,5 +97,25 @@ A security framework can defined as policies and procedures for establishing and
  <strong> Medium Impact:</strong> Privledge commands controlled  <br />
   <strong>Low Impact:</strong> Monitored & Mangaged  <br />
  <strong> Controls:</strong> <br />
+ <strong>AC (Access control):</strong> Account management and monitoring, enforcing the policy of least privilege principle, and separation of duties.
+ <strong>AT (Awareness and training):</strong> Providing awareness and security training to employees, and elevated technical training for more privileged users.
+ <strong>AU (Audit and accountability):</strong> Auditing records and content, retaining records, and providing associated analysis and reporting<br />
+ <strong>CA (Assessment, authorization and monitoring):</strong> Penetration testing, and monitoring connections to public networks and external systems<br />
+ <strong>CM (Configuration management):</strong> Implementing configuration change controls, and setting authorized software policies<br />
+ <strong>CP (Contingency planning):</strong> Establishing and testing business continuity strategies, as well as alternate processing and storage sides.<br />
+ <strong>IA (Identification and authentication):</strong> Managing credentials and setting up authentication policies and systems in place for users, devices, and services.<br />
+ <strong>IP (Individual participation):</strong> Obtaining consent and authorizing privacy policies and practices.<br />
+ <strong>IR (Incident response):</strong> Setting up incident response training and setting up associated monitoring and reporting systems.<br />
+ <strong>MA (Maintenance):</strong> Having an ongoing system, personnel, and tool maintenance.<br />
+ <strong>MP (Media protection):</strong> Securing and protecting media access, use, storage, and transportation.<br />
+ <strong>PA (Privacy authorization):</strong> Setting policies for collecting, using, and sharing personally identifiable information(PII).<br />
+ <strong>PE (Physical and environmental protection): </strong>Ensuring access to emergency power, securing physical access, and protecting against physical risk and damage.<br />
+ <strong>PM (Program management):</strong> Having defined strategies for risk management, insider threats, and scaling architecture.<br />
+ <strong>PL (Planning):</strong> Having strategies in place for comprehensive security architecture (such as defense in depth and third-party vendor security).<br />
+ <strong>PS (Personnel security):</strong> Screening internal and external personnel, setting up termination and transfer security policies.<br />
+ <strong>RA (Risk assessment):</strong> Scanning vulnerabilities, having ongoing privacy impact, and risk assessments.<br />
+ <strong>SA (System and services acquisition):</strong> Implementing security across the system development lifecycle, new vendor contracts, and acquisitions.<br />
+ <strong>SC (System and communications protection):</strong> Partitioning applications, implementing cryptographic key management, and securing passwords and other sensitive data.<br />
+ <strong>SI (System and information integrity): </strong>Implementing system monitoring, alerting systems, and flaw remediation processes
   <strong> Best Pratices:</strong> <br />
 
