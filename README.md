@@ -6,77 +6,77 @@ A security framework can defined as policies and procedures for establishing and
 <br />
 <h2>Common Frameworks</h2>
 
-NIST Special Publication 800-37<br />
+<strong> Special Publication 800-37</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-NIST Special Publication 800-53<br />
+<strong>NIST Special Publication 800-53</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-SOC 2<br />
+<strong>SOC 2</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-ISO 27001<br />
+<strong>ISO 27001</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-NIST Cybersecurity Framework<br />
+<strong>NIST Cybersecurity Framework</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-HIPAA<br />
+<strong>HIPAA</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-PCI DSS<br />
+<strong>PCI DSS</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-GDPR<br />
+<strong>GDPR</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-HITRUST CSF<br />
+<strong>HITRUST CSF</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-COBIT<br />
+<strong>COBIT</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-NERC-CIP<br />
+<strong>NERC-CIP</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-FISMA<br />
+<strong>FISMA</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-NIST Special Publication 800-171<br />
+<strong>NIST Special Publication 800-171</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-IAB CCPA<br />
+<strong>IAB CCPA</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
 
-CIS Controls<br />
+<strong>CIS Controls</strong> <br />
 Purpose:<br />
 Sector:<br />
 Certification:<br />
