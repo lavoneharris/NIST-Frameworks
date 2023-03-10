@@ -7,76 +7,76 @@ A security framework can defined as policies and procedures for establishing and
 <h2>Common Frameworks</h2>
 
 <strong> NIST Special Publication 800-37</strong> <br /><br />
-Purpose: Provides guides for applying risk management frameworks to information systems both federal and non-federal<br /><br />
-Sector: Federal<br /><br />
-Certification: N/A<br /><br />
+<strong> Purpose:</strong> Provides guides for applying risk management frameworks to information systems both federal and non-federal<br /><br />
+<strong> Sector:</strong> Federal<br /><br />
+<strong> Certification:</strong> N/A<br /><br />
 
 <strong>NIST Special Publication 800-53</strong> <br /><br />
-Purpose: Provides a list of controls that support the development of secure and resilient federal information systems. <br /><br />
-Sector: Federal information systems except those related to national security, and are technology-neutral.<br /><br />
-Certification: N/A <br /><br />
+<strong> Purpose:</strong> Provides a list of controls that support the development of secure and resilient federal information systems. <br /><br />
+<strong> Sector:</strong> Federal information systems except those related to national security, and are technology-neutral.<br /><br />
+<strong> Certification:</strong> N/A <br /><br />
 
 <strong>SOC 2</strong> <br /><br />
-Purpose: Handle Customer Data<br /><br />
-Sector: Organizations & Thrid Parties <br /><br />
-Certification: N/A <br /><br />
+<strong> Purpose:</strong> Handle Customer Data<br /><br />
+<strong> Sector:</strong> Organizations & Thrid Parties <br /><br />
+<strong> Certification:</strong> N/A <br /><br />
 
 <strong>ISO 27001</strong> <br /><br />
-Purpose: Maintain and build an Information Secuirty Management System<br /><br />
-Sector: Organizations handling senstive data<br /><br />
-Certification: Yes<br /><br />
+<strong> Purpose:</strong> Maintain and build an Information Secuirty Management System<br /><br />
+<strong> Sector:</strong> Organizations handling senstive data<br /><br />
+<strong> Certification:</strong> Yes<br /><br />
 
 <strong>NIST Cybersecurity Framework</strong> <br /><br />
-Purpose: Security vulnerbility identifcation <br /><br />
-Sector: ALL <br /><br />
-Certification: N/A<br /><br />
+<strong> Purpose:</strong> Security vulnerbility identifcation <br /><br />
+<strong> Sector:</strong> ALL <br /><br />
+<strong> Certification:</strong> N/A<br /><br />
 
 <strong>HIPAA</strong> <br /><br />
-Purpose: Protect senstive patient health information<br /><br />
-Sector: Healthcare <br /><br />
-Certification: Yes <br /><br />
+<strong> Purpose:</strong> Protect senstive patient health information<br /><br />
+<strong> Sector:</strong> Healthcare <br /><br />
+<strong> Certification:</strong> Yes <br /><br />
 
 <strong>PCI DSS</strong> <br /><br />
-Purpose: Protect cardholder information protected<br /><br />
-Sector:Organizations handling credit card information<br /><br />
-Certification:Yes <br /><br />
+<strong> Purpose:</strong> Protect cardholder information protected<br /><br />
+<strong> Sector: </strong>Organizations handling credit card information<br /><br />
+<strong> Certification: </strong>Yes <br /><br />
 
 <strong>GDPR</strong> <br /><br />
-Purpose: Protect data of People in the EU <br /><br />
-Sector: Orgainzations that collect data of people in the EU<br /><br />
-Certification: Yes <br /><br />
+<strong> Purpose:</strong> Protect data of People in the EU <br /><br />
+<strong> Sector:</strong> Orgainzations that collect data of people in the EU<br /><br />
+<strong> Certification:</strong> Yes <br /><br />
 
 <strong>HITRUST CSF</strong> <br /><br />
-Purpose: Enhanced security for healthcare<br /><br />
-Sector: Healthcare<br /><br />
-Certification: Yes<br /><br />
+<strong> Purpose:</strong> Enhanced security for healthcare<br /><br />
+<strong> Sector:</strong> Healthcare<br /><br />
+<strong> Certification:</strong> Yes<br /><br />
 
 <strong>COBIT</strong> <br /><br />
-Purpose: Aligning of It with business goals, security,information governance and risk management <br /><br />
-Sector: Public traded organizations<br /><br />
-Certification: Yes<br /><br />
+<strong> Purpose:</strong> Aligning of It with business goals, security,information governance and risk management <br /><br />
+<strong> Sector:</strong> Public traded organizations<br /><br />
+<strong> Certification:</strong> Yes<br /><br />
 
 <strong>NERC-CIP</strong> <br /><br />
-Purpose: Protect North America electric systems running <br /><br />
-Sector: Utility/Power<br /><br />
-Certification: Yes<br /><br />
+<strong> Purpose:</strong> Protect North America electric systems running <br /><br />
+<strong> Sector:</strong> Utility/Power<br /><br />
+<strong> Certification:</strong> Yes<br /><br />
 
 <strong>FISMA</strong> <br /><br />
-Purpose: Profect federal government assets<br /><br />
-Sector: Federal Government<br /><br />
-Certification: Yes<br /><br />
+<strong> Purpose:</strong> Profect federal government assets<br /><br />
+<strong> Sector:</strong> Federal Government<br /><br />
+<strong> Certification:</strong> Yes<br /><br />
 
 <strong>NIST Special Publication 800-171</strong> <br /><br />
-Purpose: Management of unclassified information <br /><br />
-Sector: Contractors and subcontractors of federal government<br /><br />
-Certification: N/A<br /><br />
+<strong> Purpose:</strong> Management of unclassified information <br /><br />
+<strong> Sector:</strong> Contractors and subcontractors of federal government<br /><br />
+<strong> Certification:</strong> N/A<br /><br />
 
 <strong>IAB CCPA</strong> <br /><br />
-Purpose: Protecting California consumers data<br /><br />
-Sector: California Organizations <br /><br />
-Certification: N/A <br /><br />
+<strong> Purpose:</strong> Protecting California consumers data<br /><br />
+<strong> Sector:</strong> California Organizations <br /><br />
+<strong> Certification:</strong> N/A <br /><br />
 
 <strong>CIS Controls</strong> <br /><br />
-Purpose: General protection on cyber threats<br /><br />
-Sector: All <br /><br />
-Certification: Yes<br /><br />
+<strong> Purpose:</strong> General protection on cyber threats<br /><br />
+<strong> Sector:</strong> All <br /><br />
+<strong> Certification:</strong> Yes<br /><br />
